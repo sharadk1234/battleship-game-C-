@@ -1,1 +1,1 @@
-# battleship-game-C++
+# battleships-game
